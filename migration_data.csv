@@ -1,0 +1,1007 @@
+Id,Airline,Class,Cabin,Detail_En,Detail_Vi,Hạng ghế,Operated Airlines,From date,To date,Hành lý xách tay,Có hành lý xách tay?,Số kiện xách tay,Số kg/kiện xách tay,Hành lý ký gửi,Có hành lý ký gửi?,Số kiện ký gửi,Số kg/kiện ký gửi,Ghi chú HLKG,Bữa ăn,Có bữa ăn?,Áp dụng với chuyến bay từ,Hình thức hoàn (nếu có),Hạn sử dụng,Hoàn vé - Timeframe 1 - From,Hoàn vé - Timeframe 1 - From,Hoàn vé - Timeframe 1 - To,Lý do hoàn 1,Hỗ trợ hoàn 1?,Phí hoàn 1,Hoàn vé - Timeframe 2 - From,Hoàn vé - Timeframe 2 - To,Lý do hoàn 2,Hỗ trợ hoàn 2?,Phí hoàn 2,Thay đổi vé,Đổi vé - Timeframe 1 - From,Đổi vé - Timeframe 1 - To,Hỗ trợ đổi 1?,Phí đổi 1,Đổi vé - Timeframe 2 - From,Đổi vé - Timeframe 2 - To,Hỗ trợ đổi 2?,Phí đổi 2,Thay đổi tên,Hỗ trợ đổi tên,Đổi tên - From,Đổi tên - To,Phí đổi tên,Đổi chuyến tại sân bay,Hỗ trợ đổi chuyến tại sân bay?,Phí đổi chuyến tại sân bay,Khách bỏ chuyến,Hỗ trợ khách bỏ chuyến?,Phí bỏ chuyến,Quầy thủ tục ưu tiên,Phòng chờ thương gia,Hệ số cộng điểm,Chọn chỗ ngồi
+51,VJ,Promo,Economy,Promotion,Khuyến mại,Phổ thông,VJ,,,NA,,,,NA,,,,,NA,,,,,NA,,,,,,,,,,,NA,,,,,,,,,,,,,,,,,,,,,,,
+52,VJ,G_Eco,Economy,Economy,Tiết Kiệm,Phổ thông,VJ,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Định danh,180,,0,24,Lý do cá nhân,No,null,24,0,Lý do cá nhân,Yes,385000,"- Phí 350,000đ + Chênh lệch vé
+- Báo tối thiểu 3 tiếng trước giờ bay",0,3,No,null,3,0,Yes,350000,No,No,,,,Null,No,,"No","No",,No,No,No,Thu phí
+,VJ,E1_ECO,Economy,Economy,Tiết Kiệm,Phổ thông,VJ,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Định danh,180,"- Hoàn định danh
+- Phí 385,000đ
+- Báo tối thiểu 24 tiếng trước giờ bay
+- Bảo lưu tiền vé trong 180 ngày",0,24,Lý do cá nhân,No,null,24,0,Lý do cá nhân,Yes,385000,"- Phí 350,000đ + Chênh lệch vé
+- Báo tối thiểu 3 tiếng trước giờ bay",0,3,No,null,3,0,Yes,350000,No,No,,,,Null,No,,"No","No",,No,No,No,Thu phí
+,VJ,A1_ECO,Economy,Economy,Tiết Kiệm,Phổ thông,VJ,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Định danh,180,"- Hoàn định danh
+- Phí 385,000đ
+- Báo tối thiểu 24 tiếng trước giờ bay
+- Bảo lưu tiền vé trong 180 ngày",0,24,Lý do cá nhân,No,null,24,0,Lý do cá nhân,Yes,385000,"- Phí 350,000đ + Chênh lệch vé
+- Báo tối thiểu 3 tiếng trước giờ bay",0,3,No,null,3,0,Yes,350000,No,No,,,,Null,No,,"No","No",,No,No,No,Thu phí
+,VJ,B1_ECO,Economy,Economy,Tiết Kiệm,Phổ thông,VJ,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Định danh,180,"- Hoàn định danh
+- Phí 385,000đ
+- Báo tối thiểu 24 tiếng trước giờ bay
+- Bảo lưu tiền vé trong 180 ngày",0,24,Lý do cá nhân,No,null,24,0,Lý do cá nhân,Yes,385000,"- Phí 350,000đ + Chênh lệch vé
+- Báo tối thiểu 3 tiếng trước giờ bay",0,3,No,null,3,0,Yes,350000,No,No,,,,Null,No,,"No","No",,No,No,No,Thu phí
+,VJ,T1_ECO,Economy,Economy,Tiết Kiệm,Phổ thông,VJ,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Định danh,180,"- Hoàn định danh
+- Phí 385,000đ
+- Báo tối thiểu 24 tiếng trước giờ bay
+- Bảo lưu tiền vé trong 180 ngày",0,24,Lý do cá nhân,No,null,24,0,Lý do cá nhân,Yes,385000,"- Phí 350,000đ + Chênh lệch vé
+- Báo tối thiểu 3 tiếng trước giờ bay",0,3,No,null,3,0,Yes,350000,No,No,,,,Null,No,,"No","No",,No,No,No,Thu phí
+,VJ,Z1_ECO,Economy,Economy,Tiết Kiệm,Phổ thông,VJ,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Định danh,180,"- Hoàn định danh
+- Phí 385,000đ
+- Báo tối thiểu 24 tiếng trước giờ bay
+- Bảo lưu tiền vé trong 180 ngày",0,24,Lý do cá nhân,No,null,24,0,Lý do cá nhân,Yes,385000,"- Phí 350,000đ + Chênh lệch vé
+- Báo tối thiểu 3 tiếng trước giờ bay",0,3,No,null,3,0,Yes,350000,No,No,,,,Null,No,,"No","No",,No,No,No,Thu phí
+,VJ,W1_ECO,Economy,Economy,Tiết Kiệm,Phổ thông,VJ,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Định danh,180,"- Hoàn định danh
+- Phí 385,000đ
+- Báo tối thiểu 24 tiếng trước giờ bay
+- Bảo lưu tiền vé trong 180 ngày",0,24,Lý do cá nhân,No,null,24,0,Lý do cá nhân,Yes,385000,"- Phí 350,000đ + Chênh lệch vé
+- Báo tối thiểu 3 tiếng trước giờ bay",0,3,No,null,3,0,Yes,350000,No,No,,,,Null,No,,"No","No",,No,No,No,Thu phí
+,VJ,J1_ECO,Economy,Economy,Tiết Kiệm,Phổ thông,VJ,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Định danh,180,"- Hoàn định danh
+- Phí 385,000đ
+- Báo tối thiểu 24 tiếng trước giờ bay
+- Bảo lưu tiền vé trong 180 ngày",0,24,Lý do cá nhân,No,null,24,0,Lý do cá nhân,Yes,385000,"- Phí 350,000đ + Chênh lệch vé
+- Báo tối thiểu 3 tiếng trước giờ bay",0,3,No,null,3,0,Yes,350000,No,No,,,,Null,No,,"No","No",,No,No,No,Thu phí
+,VJ,U1_ECO,Economy,Economy,Tiết Kiệm,Phổ thông,VJ,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Định danh,180,"- Hoàn định danh
+- Phí 385,000đ
+- Báo tối thiểu 24 tiếng trước giờ bay
+- Bảo lưu tiền vé trong 180 ngày",0,24,Lý do cá nhân,No,null,24,0,Lý do cá nhân,Yes,385000,"- Phí 350,000đ + Chênh lệch vé
+- Báo tối thiểu 3 tiếng trước giờ bay",0,3,No,null,3,0,Yes,350000,No,No,,,,Null,No,,"No","No",,No,No,No,Thu phí
+,VJ,I1_ECO,Economy,Economy,Tiết Kiệm,Phổ thông,VJ,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Định danh,180,"- Hoàn định danh
+- Phí 385,000đ
+- Báo tối thiểu 24 tiếng trước giờ bay
+- Bảo lưu tiền vé trong 180 ngày",0,24,Lý do cá nhân,No,null,24,0,Lý do cá nhân,Yes,385000,"- Phí 350,000đ + Chênh lệch vé
+- Báo tối thiểu 3 tiếng trước giờ bay",0,3,No,null,3,0,Yes,350000,No,No,,,,Null,No,,"No","No",,No,No,No,Thu phí
+,VJ,H1_ECO,Economy,Economy,Tiết Kiệm,Phổ thông,VJ,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Định danh,180,"- Hoàn định danh
+- Phí 385,000đ
+- Báo tối thiểu 24 tiếng trước giờ bay
+- Bảo lưu tiền vé trong 180 ngày",0,24,Lý do cá nhân,No,null,24,0,Lý do cá nhân,Yes,385000,"- Phí 350,000đ + Chênh lệch vé
+- Báo tối thiểu 3 tiếng trước giờ bay",0,3,No,null,3,0,Yes,350000,No,No,,,,Null,No,,"No","No",,No,No,No,Thu phí
+,VJ,K1_ECO,Economy,Economy,Tiết Kiệm,Phổ thông,VJ,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Định danh,180,"- Hoàn định danh
+- Phí 385,000đ
+- Báo tối thiểu 24 tiếng trước giờ bay
+- Bảo lưu tiền vé trong 180 ngày",0,24,Lý do cá nhân,No,null,24,0,Lý do cá nhân,Yes,385000,"- Phí 350,000đ + Chênh lệch vé
+- Báo tối thiểu 3 tiếng trước giờ bay",0,3,No,null,3,0,Yes,350000,No,No,,,,Null,No,,"No","No",,No,No,No,Thu phí
+,VJ,L1_ECO,Economy,Economy,Tiết Kiệm,Phổ thông,VJ,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Định danh,180,"- Hoàn định danh
+- Phí 385,000đ
+- Báo tối thiểu 24 tiếng trước giờ bay
+- Bảo lưu tiền vé trong 180 ngày",0,24,Lý do cá nhân,No,null,24,0,Lý do cá nhân,Yes,385000,"- Phí 350,000đ + Chênh lệch vé
+- Báo tối thiểu 3 tiếng trước giờ bay",0,3,No,null,3,0,Yes,350000,No,No,,,,Null,No,,"No","No",,No,No,No,Thu phí
+,VJ,M1_ECO,Economy,Economy,Tiết Kiệm,Phổ thông,VJ,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Định danh,180,"- Hoàn định danh
+- Phí 385,000đ
+- Báo tối thiểu 24 tiếng trước giờ bay
+- Bảo lưu tiền vé trong 180 ngày",0,24,Lý do cá nhân,No,null,24,0,Lý do cá nhân,Yes,385000,"- Phí 350,000đ + Chênh lệch vé
+- Báo tối thiểu 3 tiếng trước giờ bay",0,3,No,null,3,0,Yes,350000,No,No,,,,Null,No,,"No","No",,No,No,No,Thu phí
+,VJ,O1_ECO,Economy,Economy,Tiết Kiệm,Phổ thông,VJ,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Định danh,180,"- Hoàn định danh
+- Phí 385,000đ
+- Báo tối thiểu 24 tiếng trước giờ bay
+- Bảo lưu tiền vé trong 180 ngày",0,24,Lý do cá nhân,No,null,24,0,Lý do cá nhân,Yes,385000,"- Phí 350,000đ + Chênh lệch vé
+- Báo tối thiểu 3 tiếng trước giờ bay",0,3,No,null,3,0,Yes,350000,No,No,,,,Null,No,,"No","No",,No,No,No,Thu phí
+,VJ,Q1_ECO,Economy,Economy,Tiết Kiệm,Phổ thông,VJ,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Định danh,180,"- Hoàn định danh
+- Phí 385,000đ
+- Báo tối thiểu 24 tiếng trước giờ bay
+- Bảo lưu tiền vé trong 180 ngày",0,24,Lý do cá nhân,No,null,24,0,Lý do cá nhân,Yes,385000,"- Phí 350,000đ + Chênh lệch vé
+- Báo tối thiểu 3 tiếng trước giờ bay",0,3,No,null,3,0,Yes,350000,No,No,,,,Null,No,,"No","No",,No,No,No,Thu phí
+,VJ,R1_ECO,Economy,Economy,Tiết Kiệm,Phổ thông,VJ,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Định danh,180,"- Hoàn định danh
+- Phí 385,000đ
+- Báo tối thiểu 24 tiếng trước giờ bay
+- Bảo lưu tiền vé trong 180 ngày",0,24,Lý do cá nhân,No,null,24,0,Lý do cá nhân,Yes,385000,"- Phí 350,000đ + Chênh lệch vé
+- Báo tối thiểu 3 tiếng trước giờ bay",0,3,No,null,3,0,Yes,350000,No,No,,,,Null,No,,"No","No",,No,No,No,Thu phí
+,VJ,G_Dlx,Deluxe,Deluxe,Deluxe,Phổ thông đặc biệt,VJ,0,0,7kg,Yes,1,7,20kg,Yes,1,20,Null,No,No,,Định danh,180,"- Hoàn định danh
+- Phí 385,000đ
+- Báo tối thiểu 24 tiếng trước giờ bay
+- Bảo lưu tiền vé trong 180 ngày",0,24,Lý do cá nhân,No,null,24,0,Lý do cá nhân,Yes,385000,"- Miễn phí + Chênh lệch vé
+- Báo tối thiểu 3 tiếng trước giờ bay",0,3,No,null,3,0,Yes,0,No,No,,,,Null,No,,"No","No",,Yes,No,No,Miễn phí
+,VJ,E1_DLX,Deluxe,Deluxe,Deluxe,Phổ thông đặc biệt,VJ,0,0,7kg,Yes,1,7,20kg,Yes,1,20,Null,No,No,,Định danh,180,"- Hoàn định danh
+- Phí 385,000đ
+- Báo tối thiểu 24 tiếng trước giờ bay
+- Bảo lưu tiền vé trong 180 ngày",0,24,Lý do cá nhân,No,null,24,0,Lý do cá nhân,Yes,385000,"- Miễn phí + Chênh lệch vé
+- Báo tối thiểu 3 tiếng trước giờ bay",0,3,No,null,3,0,Yes,0,No,No,,,,Null,No,,"No","No",,Yes,No,No,Miễn phí
+,VJ,A1_DLX,Deluxe,Deluxe,Deluxe,Phổ thông đặc biệt,VJ,0,0,7kg,Yes,1,7,20kg,Yes,1,20,Null,No,No,,Định danh,180,"- Hoàn định danh
+- Phí 385,000đ
+- Báo tối thiểu 24 tiếng trước giờ bay
+- Bảo lưu tiền vé trong 180 ngày",0,24,Lý do cá nhân,No,null,24,0,Lý do cá nhân,Yes,385000,"- Miễn phí + Chênh lệch vé
+- Báo tối thiểu 3 tiếng trước giờ bay",0,3,No,null,3,0,Yes,0,No,No,,,,Null,No,,"No","No",,Yes,No,No,Miễn phí
+,VJ,B1_DLX,Deluxe,Deluxe,Deluxe,Phổ thông đặc biệt,VJ,0,0,7kg,Yes,1,7,20kg,Yes,1,20,Null,No,No,,Định danh,180,"- Hoàn định danh
+- Phí 385,000đ
+- Báo tối thiểu 24 tiếng trước giờ bay
+- Bảo lưu tiền vé trong 180 ngày",0,24,Lý do cá nhân,No,null,24,0,Lý do cá nhân,Yes,385000,"- Miễn phí + Chênh lệch vé
+- Báo tối thiểu 3 tiếng trước giờ bay",0,3,No,null,3,0,Yes,0,No,No,,,,Null,No,,"No","No",,Yes,No,No,Miễn phí
+,VJ,T1_DLX,Deluxe,Deluxe,Deluxe,Phổ thông đặc biệt,VJ,0,0,7kg,Yes,1,7,20kg,Yes,1,20,Null,No,No,,Định danh,180,"- Hoàn định danh
+- Phí 385,000đ
+- Báo tối thiểu 24 tiếng trước giờ bay
+- Bảo lưu tiền vé trong 180 ngày",0,24,Lý do cá nhân,No,null,24,0,Lý do cá nhân,Yes,385000,"- Miễn phí + Chênh lệch vé
+- Báo tối thiểu 3 tiếng trước giờ bay",0,3,No,null,3,0,Yes,0,No,No,,,,Null,No,,"No","No",,Yes,No,No,Miễn phí
+,VJ,Z1_DLX,Deluxe,Deluxe,Deluxe,Phổ thông đặc biệt,VJ,0,0,7kg,Yes,1,7,20kg,Yes,1,20,Null,No,No,,Định danh,180,"- Hoàn định danh
+- Phí 385,000đ
+- Báo tối thiểu 24 tiếng trước giờ bay
+- Bảo lưu tiền vé trong 180 ngày",0,24,Lý do cá nhân,No,null,24,0,Lý do cá nhân,Yes,385000,"- Miễn phí + Chênh lệch vé
+- Báo tối thiểu 3 tiếng trước giờ bay",0,3,No,null,3,0,Yes,0,No,No,,,,Null,No,,"No","No",,Yes,No,No,Miễn phí
+,VJ,W1_DLX,Deluxe,Deluxe,Deluxe,Phổ thông đặc biệt,VJ,0,0,7kg,Yes,1,7,20kg,Yes,1,20,Null,No,No,,Định danh,180,"- Hoàn định danh
+- Phí 385,000đ
+- Báo tối thiểu 24 tiếng trước giờ bay
+- Bảo lưu tiền vé trong 180 ngày",0,24,Lý do cá nhân,No,null,24,0,Lý do cá nhân,Yes,385000,"- Miễn phí + Chênh lệch vé
+- Báo tối thiểu 3 tiếng trước giờ bay",0,3,No,null,3,0,Yes,0,No,No,,,,Null,No,,"No","No",,Yes,No,No,Miễn phí
+,VJ,J1_DLX,Deluxe,Deluxe,Deluxe,Phổ thông đặc biệt,VJ,0,0,7kg,Yes,1,7,20kg,Yes,1,20,Null,No,No,,Định danh,180,"- Hoàn định danh
+- Phí 385,000đ
+- Báo tối thiểu 24 tiếng trước giờ bay
+- Bảo lưu tiền vé trong 180 ngày",0,24,Lý do cá nhân,No,null,24,0,Lý do cá nhân,Yes,385000,"- Miễn phí + Chênh lệch vé
+- Báo tối thiểu 3 tiếng trước giờ bay",0,3,No,null,3,0,Yes,0,No,No,,,,Null,No,,"No","No",,Yes,No,No,Miễn phí
+,VJ,U1_DLX,Deluxe,Deluxe,Deluxe,Phổ thông đặc biệt,VJ,0,0,7kg,Yes,1,7,20kg,Yes,1,20,Null,No,No,,Định danh,180,"- Hoàn định danh
+- Phí 385,000đ
+- Báo tối thiểu 24 tiếng trước giờ bay
+- Bảo lưu tiền vé trong 180 ngày",0,24,Lý do cá nhân,No,null,24,0,Lý do cá nhân,Yes,385000,"- Miễn phí + Chênh lệch vé
+- Báo tối thiểu 3 tiếng trước giờ bay",0,3,No,null,3,0,Yes,0,No,No,,,,Null,No,,"No","No",,Yes,No,No,Miễn phí
+,VJ,I1_DLX,Deluxe,Deluxe,Deluxe,Phổ thông đặc biệt,VJ,0,0,7kg,Yes,1,7,20kg,Yes,1,20,Null,No,No,,Định danh,180,"- Hoàn định danh
+- Phí 385,000đ
+- Báo tối thiểu 24 tiếng trước giờ bay
+- Bảo lưu tiền vé trong 180 ngày",0,24,Lý do cá nhân,No,null,24,0,Lý do cá nhân,Yes,385000,"- Miễn phí + Chênh lệch vé
+- Báo tối thiểu 3 tiếng trước giờ bay",0,3,No,null,3,0,Yes,0,No,No,,,,Null,No,,"No","No",,Yes,No,No,Miễn phí
+53,VJ,V_SBoss,Skyboss,Skyboss,Skyboss,Thương gia,VJ,0,0,10kg,Yes,1,10,30kg,Yes,1,30,1 bộ gậy chơi golf dưới 15kg,No,No,,Định danh,730,"- Hoàn định danh
+- Phí 385,000đ
+- Báo tối thiểu 3 tiếng trước giờ bay
+- Bảo lưu tiền vé trong 2 năm",0,24,Lý do cá nhân,No,null,24,0,Lý do cá nhân,Yes,385000,"- Miễn phí + Chênh lệch vé
+- Báo tối thiểu 3 tiếng trước giờ bay",0,3,No,null,3,0,Yes,0,"- Phí 385,000đ
+- Báo tối thiểu 3 tiếng trước giờ bay",Yes,3,0,385000,Null,No,,No,No,,Yes,Yes,No,Miễn phí
+189,VN,A,Economy,Economy Super Lite,Phổ thông siêu tiết kiệm,Phổ thông,VN,01/07/2022,0,12kg,Yes,1,12,0kg,No,,,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,Không hoàn,null,No,0,0,Lý do cá nhân,No,null,,,,No,,No,0,0,No,null,,,,,No,No,,,,No,No,,No,"No",,No,No,10%,Thu phí
+189,VN,A,Economy,Economy Super Lite,Phổ thông siêu tiết kiệm,Phổ thông,VN,06/01/2023,07/02/2023,12kg,Yes,1,12,0kg,No,,,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,Không hoàn,null,No,0,0,Lý do cá nhân,No,null,,,,No,,No,0,0,No,null,,,,,No,No,,,,No,No,,No,"No",,No,No,10%,Thu phí
+189,VN,A,Economy,Economy Super Lite,Phổ thông siêu tiết kiệm,Phổ thông,VN,13/02/2022,01/07/2022,12kg,Yes,1,12,23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,Không hoàn,null,No,0,0,Lý do cá nhân,No,null,,,,No,,No,0,0,No,null,,,,,No,No,,,,No,No,,No,"No",,No,No,10%,Thu phí
+189,VN,A,Economy,Economy Super Lite,Phổ thông siêu tiết kiệm,Phổ thông,BL,01/07/2022,0,7kg,Yes,1,7,0kg,No,,,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,Không hoàn,null,No,0,0,Lý do cá nhân,No,null,,,,No,,No,0,0,No,null,,,,,No,No,,,,No,No,,No,"No",,No,No,10%,Thu phí
+189,VN,A,Economy,Economy Super Lite,Phổ thông siêu tiết kiệm,Phổ thông,BL,06/01/2023,07/02/2023,7kg,Yes,1,7,0kg,No,,,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,Không hoàn,null,No,0,0,Lý do cá nhân,No,null,,,,No,,No,0,0,No,null,,,,,No,No,,,,No,No,,No,"No",,No,No,10%,Thu phí
+189,VN,A,Economy,Economy Super Lite,Phổ thông siêu tiết kiệm,Phổ thông,BL,13/02/2022,01/07/2022,7kg,Yes,1,7,23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,Không hoàn,null,No,0,0,Lý do cá nhân,No,null,,,,No,,No,0,0,No,null,,,,,No,No,,,,No,No,,No,"No",,No,No,10%,Thu phí
+261,VN,B,Economy,Economy Flex,Phổ thông linh hoạt,Phổ thông,VN,13/02/2022,0,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí:
+     + Từ ngày ... đến ngày ... : 360,000đ + chênh lệch
+     + Khác: miễn phí + chênh lệch",0,3,No,null,3,0,Yes,0,No,No,,,,"- Từ ngày ... đến ngày ... : thu phí + chênh lệch
+- Khác: miễn phí + chênh lệch",Yes,0,"- Từ ngày ... đến ngày ... : phí 500,000đ
+- Khác: miễn phí",Yes,0,No,No,100%,Miễn phí
+261,VN,B,Economy,Economy Flex,Phổ thông linh hoạt,Phổ thông,VN,06/01/2023,07/02/2023,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí:
+     + Từ ngày ... đến ngày ... : 360,000đ + chênh lệch
+     + Khác: miễn phí + chênh lệch",0,3,No,null,3,0,Yes,360000,No,No,,,,"- Từ ngày ... đến ngày ... : thu phí + chênh lệch
+- Khác: miễn phí + chênh lệch",Yes,Thu phí,"- Từ ngày ... đến ngày ... : phí 500,000đ
+- Khác: miễn phí",Yes,500000,No,No,100%,Miễn phí
+261,VN,B,Economy,Economy Flex,Phổ thông linh hoạt,Phổ thông,BL,13/02/2022,0,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí:
+     + Từ ngày ... đến ngày ... : 360,000đ + chênh lệch
+     + Khác: miễn phí + chênh lệch","- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí:
+     + Từ ngày ... đến ngày ... : 360,000đ + chênh lệch
+     + Khác: miễn phí + chênh lệch",3,No,null,3,0,Yes,0,No,No,,,,"- Từ ngày ... đến ngày ... : thu phí + chênh lệch
+- Khác: miễn phí + chênh lệch",Yes,0,"- Từ ngày ... đến ngày ... : phí 500,000đ
+- Khác: miễn phí",Yes,0,No,No,100%,Miễn phí
+261,VN,B,Economy,Economy Flex,Phổ thông linh hoạt,Phổ thông,BL,06/01/2023,07/02/2023,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí:
+     + Từ ngày ... đến ngày ... : 360,000đ + chênh lệch
+     + Khác: miễn phí + chênh lệch",0,3,No,null,3,0,Yes,360000,No,No,,,,"- Từ ngày ... đến ngày ... : thu phí + chênh lệch
+- Khác: miễn phí + chênh lệch",Yes,Thu phí,"- Từ ngày ... đến ngày ... : phí 500,000đ
+- Khác: miễn phí",Yes,500000,No,No,100%,Miễn phí
+351,VN,C,Business,Business Flex,Thương gia linh hoạt,Thương gia,VN,13/02/2022,0,18kg,Yes,1,18,1x32kg,Yes,1,32,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Miễn phí + chênh lệch",0,3,No,null,3,0,Yes,0,No,No,,,,- Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,Yes,Yes,200%,Miễn phí
+351,VN,C,Business,Business Flex,Thương gia linh hoạt,Thương gia,VN,06/01/2023,07/02/2023,18kg,Yes,1,18,1x32kg,Yes,1,32,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Miễn phí + chênh lệch",0,3,No,null,3,0,Yes,0,No,No,,,,- Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,Yes,Yes,200%,Miễn phí
+351,VN,C,Business,Business Flex,Thương gia linh hoạt,Thương gia,BL,13/02/2022,0,7kg,Yes,1,7,1x32kg,Yes,1,32,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Miễn phí + chênh lệch",0,3,No,null,3,0,Yes,0,No,No,,,,- Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,Yes,Yes,200%,Miễn phí
+351,VN,C,Business,Business Flex,Thương gia linh hoạt,Thương gia,BL,06/01/2023,07/02/2023,7kg,Yes,1,7,1x32kg,Yes,1,32,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Miễn phí + chênh lệch",0,3,No,null,3,0,Yes,0,No,No,,,,- Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,Yes,Yes,200%,Miễn phí
+436,VN,D,Business,Business Classic,Thương gia tiêu chuẩn,Thương gia,VN,13/02/2022,0,18kg,Yes,1,18,1x32kg,Yes,1,32,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,- Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,Yes,Yes,150%,Miễn phí
+436,VN,D,Business,Business Classic,Thương gia tiêu chuẩn,Thương gia,VN,06/01/2023,07/02/2023,18kg,Yes,1,18,1x32kg,Yes,1,32,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,- Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,Yes,Yes,150%,Miễn phí
+436,VN,D,Business,Business Classic,Thương gia tiêu chuẩn,Thương gia,BL,13/02/2022,0,7kg,Yes,1,7,1x32kg,Yes,1,32,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,- Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,Yes,Yes,150%,Miễn phí
+436,VN,D,Business,Business Classic,Thương gia tiêu chuẩn,Thương gia,BL,06/01/2023,07/02/2023,7kg,Yes,1,7,1x32kg,Yes,1,32,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,- Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,Yes,Yes,150%,Miễn phí
+572,VN,E,Economy,Economy Lite,Phổ thông tiết kiệm,Phổ thông,VN,13/02/2022,0,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,- Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,60%,Thu phí
+572,VN,E,Economy,Economy Lite,Phổ thông tiết kiệm,Phổ thông,VN,06/01/2023,07/02/2023,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,- Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,60%,Thu phí
+572,VN,E,Economy,Economy Lite,Phổ thông tiết kiệm,Phổ thông,BL,13/02/2022,0,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,- Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,60%,Thu phí
+572,VN,E,Economy,Economy Lite,Phổ thông tiết kiệm,Phổ thông,BL,06/01/2023,07/02/2023,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,- Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,60%,Thu phí
+824,VN,G,Economy,Economy Super Lite,Phổ thông siêu tiết kiệm,Phổ thông,VN,01/07/2022,0,12kg,Yes,1,12,0kg,No,,,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,Không hoàn,,No,0,0,Lý do cá nhân,No,null,,,,No,,No,0,0,No,Null,,,,,No,No,,,,No,No,,No,No,,No,No,10%,Thu phí
+824,VN,G,Economy,Economy Super Lite,Phổ thông siêu tiết kiệm,Phổ thông,VN,06/01/2023,07/02/2023,12kg,Yes,1,12,0kg,No,,,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,Không hoàn,,No,0,0,Lý do cá nhân,No,null,,,,No,,No,0,0,No,Null,,,,,No,No,,,,No,No,,No,No,,No,No,10%,Thu phí
+824,VN,G,Economy,Economy Super Lite,Phổ thông siêu tiết kiệm,Phổ thông,VN,13/02/2022,01/07/2022,12kg,Yes,1,12,23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,Không hoàn,null,No,0,0,Lý do cá nhân,No,null,,,,No,,No,0,0,No,null,,,,,No,No,,,,No,No,,No,"No",,No,No,10%,Thu phí
+824,VN,G,Economy,Economy Super Lite,Phổ thông siêu tiết kiệm,Phổ thông,BL,01/07/2022,0,7kg,Yes,1,7,0kg,No,,,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,Không hoàn,,No,0,0,Lý do cá nhân,No,null,,,,No,,"No",0,0,No,Null,,,,,No,No,,,,No,No,,No,No,,No,No,10%,Thu phí
+824,VN,G,Economy,Economy Super Lite,Phổ thông siêu tiết kiệm,Phổ thông,BL,06/01/2023,07/02/2023,7kg,Yes,1,7,0kg,No,,,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,Không hoàn,,No,0,0,Lý do cá nhân,No,null,,,,No,,"No",0,0,No,Null,,,,,No,No,,,,No,No,,No,No,,No,No,10%,Thu phí
+824,VN,G,Economy,Economy Super Lite,Phổ thông siêu tiết kiệm,Phổ thông,BL,13/02/2022,01/07/2022,7kg,Yes,1,7,23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,Không hoàn,null,No,0,0,Lý do cá nhân,No,null,,,,No,,No,0,0,No,null,,,,,No,No,,,,No,No,,No,"No",,No,No,10%,Thu phí
+878,VN,H,Economy,Economy Classic,Phổ thông tiêu chuẩn,Phổ thông,VN,13/02/2022,0,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí:
+     + Từ ngày ... đến ngày ... : 360,000đ + chênh lệch
+     + Khác: miễn phí + chênh lệch",0,3,No,null,3,0,Yes,0,No,No,,,,- Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,80%,Miễn phí
+878,VN,H,Economy,Economy Classic,Phổ thông tiêu chuẩn,Phổ thông,VN,06/01/2023,07/02/2023,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí:
+     + Từ ngày ... đến ngày ... : 360,000đ + chênh lệch
+     + Khác: miễn phí + chênh lệch",0,3,No,null,3,0,Yes,360000,No,No,,,,- Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,80%,Miễn phí
+878,VN,H,Economy,Economy Classic,Phổ thông tiêu chuẩn,Phổ thông,BL,13/02/2022,0,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí:
+     + Từ ngày ... đến ngày ... : 360,000đ + chênh lệch
+     + Khác: miễn phí + chênh lệch",0,3,No,null,3,0,Yes,0,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,80%,Miễn phí
+878,VN,H,Economy,Economy Classic,Phổ thông tiêu chuẩn,Phổ thông,BL,06/01/2023,07/02/2023,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí:
+     + Từ ngày ... đến ngày ... : 360,000đ + chênh lệch
+     + Khác: miễn phí + chênh lệch",0,3,No,null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,80%,Miễn phí
+1023,VN,I,Business,Business Classic,Thương gia tiêu chuẩn,Thương gia,VN,13/02/2022,0,18kg,Yes,1,18,1x32kg,Yes,1,32,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,Yes,Yes,150%,Miễn phí
+1023,VN,I,Business,Business Classic,Thương gia tiêu chuẩn,Thương gia,VN,06/01/2023,07/02/2023,18kg,Yes,1,18,1x32kg,Yes,1,32,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,Yes,Yes,150%,Miễn phí
+1023,VN,I,Business,Business Classic,Thương gia tiêu chuẩn,Thương gia,BL,13/02/2022,0,7kg,Yes,1,7,1x32kg,Yes,1,32,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,Yes,Yes,150%,Miễn phí
+1023,VN,I,Business,Business Classic,Thương gia tiêu chuẩn,Thương gia,BL,06/01/2023,07/02/2023,7kg,Yes,1,7,1x32kg,Yes,1,32,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,Yes,Yes,150%,Miễn phí
+1187,VN,J,Business,Business Flex,Thương gia linh hoạt,Thương gia,VN,13/02/2022,0,18kg,Yes,1,18,1x32kg,Yes,1,32,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Miễn phí + chênh lệch",0,3,No,null,3,0,Yes,0,No,No,,,,"- Từ ngày ... đến ngày ... : thu phí + chênh lệch
+- Khác: miễn phí + chênh lệch",Yes,0,"- Từ ngày ... đến ngày ... : phí 500,000đ
+- Khác: miễn phí",Yes,0,Yes,Yes,200%,Miễn phí
+1187,VN,J,Business,Business Flex,Thương gia linh hoạt,Thương gia,VN,06/01/2023,07/02/2023,18kg,Yes,1,18,1x32kg,Yes,1,32,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Miễn phí + chênh lệch",0,3,No,null,3,0,Yes,0,No,No,,,,"- Từ ngày ... đến ngày ... : thu phí + chênh lệch
+- Khác: miễn phí + chênh lệch",Yes,Thu phí,"- Từ ngày ... đến ngày ... : phí 500,000đ
+- Khác: miễn phí",Yes,500000,Yes,Yes,200%,Miễn phí
+1187,VN,J,Business,Business Flex,Thương gia linh hoạt,Thương gia,BL,13/02/2022,0,7kg,Yes,1,7,1x32kg,Yes,1,32,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Miễn phí + chênh lệch",0,3,No,null,3,0,Yes,0,No,No,,,,"- Từ ngày ... đến ngày ... : thu phí + chênh lệch
+- Khác: miễn phí + chênh lệch",Yes,0,"- Từ ngày ... đến ngày ... : phí 500,000đ
+- Khác: miễn phí",Yes,0,Yes,Yes,200%,Miễn phí
+1187,VN,J,Business,Business Flex,Thương gia linh hoạt,Thương gia,BL,06/01/2023,07/02/2023,7kg,Yes,1,7,1x32kg,Yes,1,32,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Miễn phí + chênh lệch",0,3,No,null,3,0,Yes,0,No,No,,,,"- Từ ngày ... đến ngày ... : thu phí + chênh lệch
+- Khác: miễn phí + chênh lệch",Yes,Thu phí,"- Từ ngày ... đến ngày ... : phí 500,000đ
+- Khác: miễn phí",Yes,500000,Yes,Yes,200%,Miễn phí
+1256,VN,K,Economy,Economy Classic,Phổ thông tiêu chuẩn,Phổ thông,VN,13/02/2022,0,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí:
+     + Từ ngày ... đến ngày ... : 360,000đ + chênh lệch
+     + Khác: miễn phí + chênh lệch",0,3,No,null,3,0,Yes,0,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,80%,Miễn phí
+1256,VN,K,Economy,Economy Classic,Phổ thông tiêu chuẩn,Phổ thông,VN,06/01/2023,07/02/2023,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí:
+     + Từ ngày ... đến ngày ... : 360,000đ + chênh lệch
+     + Khác: miễn phí + chênh lệch",0,3,No,null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,80%,Miễn phí
+1256,VN,K,Economy,Economy Classic,Phổ thông tiêu chuẩn,Phổ thông,BL,13/02/2022,0,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí:
+     + Từ ngày ... đến ngày ... : 360,000đ + chênh lệch
+     + Khác: miễn phí + chênh lệch",0,3,No,null,3,0,Yes,0,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,80%,Miễn phí
+1256,VN,K,Economy,Economy Classic,Phổ thông tiêu chuẩn,Phổ thông,BL,06/01/2023,07/02/2023,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí:
+     + Từ ngày ... đến ngày ... : 360,000đ + chênh lệch
+     + Khác: miễn phí + chênh lệch",0,3,No,null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,80%,Miễn phí
+1309,VN,L,Economy,Economy Classic,Phổ thông tiêu chuẩn,Phổ thông,VN,13/02/2022,0,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí:
+     + Từ ngày ... đến ngày ... : 360,000đ + chênh lệch
+     + Khác: miễn phí + chênh lệch",0,3,No,null,3,0,Yes,0,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,80%,Miễn phí
+1309,VN,L,Economy,Economy Classic,Phổ thông tiêu chuẩn,Phổ thông,VN,06/01/2023,07/02/2023,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí:
+     + Từ ngày ... đến ngày ... : 360,000đ + chênh lệch
+     + Khác: miễn phí + chênh lệch",0,3,No,null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,80%,Miễn phí
+1309,VN,L,Economy,Economy Classic,Phổ thông tiêu chuẩn,Phổ thông,BL,13/02/2022,0,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí:
+     + Từ ngày ... đến ngày ... : 360,000đ + chênh lệch
+     + Khác: miễn phí + chênh lệch",0,3,No,null,3,0,Yes,0,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,80%,Miễn phí
+1309,VN,L,Economy,Economy Classic,Phổ thông tiêu chuẩn,Phổ thông,BL,06/01/2023,07/02/2023,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí:
+     + Từ ngày ... đến ngày ... : 360,000đ + chênh lệch
+     + Khác: miễn phí + chênh lệch",0,3,No,null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,80%,Miễn phí
+1358,VN,M,Economy,Economy Flex,Phổ thông linh hoạt,Phổ thông,VN,13/02/2022,0,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí:
+     + Từ ngày ... đến ngày ... : 360,000đ + chênh lệch
+     + Khác: miễn phí + chênh lệch",0,3,No,null,3,0,Yes,0,No,No,,,,"- Từ ngày ... đến ngày ... : thu phí + chênh lệch
+- Khác: miễn phí + chênh lệch",Yes,0,"- Từ ngày ... đến ngày ... : phí 500,000đ
+- Khác: miễn phí",Yes,0,No,No,100%,Miễn phí
+1358,VN,M,Economy,Economy Flex,Phổ thông linh hoạt,Phổ thông,VN,06/01/2023,07/02/2023,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí:
+     + Từ ngày ... đến ngày ... : 360,000đ + chênh lệch
+     + Khác: miễn phí + chênh lệch",0,3,No,null,3,0,Yes,360000,No,No,,,,"- Từ ngày ... đến ngày ... : thu phí + chênh lệch
+- Khác: miễn phí + chênh lệch",Yes,Thu phí,"- Từ ngày ... đến ngày ... : phí 500,000đ
+- Khác: miễn phí",Yes,500000,No,No,100%,Miễn phí
+1358,VN,M,Economy,Economy Flex,Phổ thông linh hoạt,Phổ thông,BL,13/02/2022,0,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí:
+     + Từ ngày ... đến ngày ... : 360,000đ + chênh lệch
+     + Khác: miễn phí + chênh lệch",0,3,No,null,3,0,Yes,0,No,No,,,,"- Từ ngày ... đến ngày ... : thu phí + chênh lệch
+- Khác: miễn phí + chênh lệch",Yes,0,"- Từ ngày ... đến ngày ... : phí 500,000đ
+- Khác: miễn phí",Yes,0,No,No,100%,Miễn phí
+1358,VN,M,Economy,Economy Flex,Phổ thông linh hoạt,Phổ thông,BL,06/01/2023,07/02/2023,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí:
+     + Từ ngày ... đến ngày ... : 360,000đ + chênh lệch
+     + Khác: miễn phí + chênh lệch",0,3,No,null,3,0,Yes,360000,No,No,,,,"- Từ ngày ... đến ngày ... : thu phí + chênh lệch
+- Khác: miễn phí + chênh lệch",Yes,Thu phí,"- Từ ngày ... đến ngày ... : phí 500,000đ
+- Khác: miễn phí",Yes,500000,No,No,100%,Miễn phí
+1401,VN,N,Economy,Economy Classic,Phổ thông tiêu chuẩn,Phổ thông,VN,13/02/2022,0,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,60%,Thu phí
+1401,VN,N,Economy,Economy Classic,Phổ thông tiêu chuẩn,Phổ thông,VN,06/01/2023,07/02/2023,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,60%,Thu phí
+1401,VN,N,Economy,Economy Classic,Phổ thông tiêu chuẩn,Phổ thông,BL,13/02/2022,0,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,60%,Thu phí
+1401,VN,N,Economy,Economy Classic,Phổ thông tiêu chuẩn,Phổ thông,BL,06/01/2023,07/02/2023,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,60%,Thu phí
+1665,VN,P,Economy,Economy Super Lite,Phổ thông siêu tiết kiệm,Phổ thông,VN,01/07/2022,0,12kg,Yes,1,12,0kg,No,,,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,Không hoàn,,No,0,0,Lý do cá nhân,No,null,,,,No,,No,0,0,No,Null,,,,,No,No,,,,No,No,,No,No,,No,No,10%,Thu phí
+1665,VN,P,Economy,Economy Super Lite,Phổ thông siêu tiết kiệm,Phổ thông,VN,06/01/2023,07/02/2023,12kg,Yes,1,12,0kg,No,,,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,Không hoàn,,No,0,0,Lý do cá nhân,No,null,,,,No,,No,0,0,No,Null,,,,,No,No,,,,No,No,,No,No,,No,No,10%,Thu phí
+1665,VN,P,Economy,Economy Super Lite,Phổ thông siêu tiết kiệm,Phổ thông,VN,13/02/2022,01/07/2022,12kg,Yes,1,12,23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,Không hoàn,null,No,0,0,Lý do cá nhân,No,null,,,,No,,No,0,0,No,null,,,,,No,No,,,,No,No,,No,"No",,No,No,10%,Thu phí
+1665,VN,P,Economy,Economy Super Lite,Phổ thông siêu tiết kiệm,Phổ thông,BL,01/07/2022,0,7kg,Yes,1,7,0kg,No,,,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,Không hoàn,,No,0,0,Lý do cá nhân,No,null,,,,No,,No,0,0,No,Null,,,,,No,No,,,,No,No,,No,No,,No,No,10%,Thu phí
+1665,VN,P,Economy,Economy Super Lite,Phổ thông siêu tiết kiệm,Phổ thông,BL,06/01/2023,07/02/2023,7kg,Yes,1,7,0kg,No,,,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,Không hoàn,,No,0,0,Lý do cá nhân,No,null,,,,No,,No,0,0,No,Null,,,,,No,No,,,,No,No,,No,No,,No,No,10%,Thu phí
+1665,VN,P,Economy,Economy Super Lite,Phổ thông siêu tiết kiệm,Phổ thông,BL,13/02/2022,01/07/2022,7kg,Yes,1,7,23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,Không hoàn,null,No,0,0,Lý do cá nhân,No,null,,,,No,,No,0,0,No,null,,,,,No,No,,,,No,No,,No,"No",,No,No,10%,Thu phí
+1742,VN,Q,Economy,Economy Classic,Phổ thông tiêu chuẩn,Phổ thông,VN,13/02/2022,0,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,60%,Thu phí
+1742,VN,Q,Economy,Economy Classic,Phổ thông tiêu chuẩn,Phổ thông,VN,06/01/2023,07/02/2023,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,60%,Thu phí
+1742,VN,Q,Economy,Economy Classic,Phổ thông tiêu chuẩn,Phổ thông,BL,13/02/2022,0,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,60%,Thu phí
+1742,VN,Q,Economy,Economy Classic,Phổ thông tiêu chuẩn,Phổ thông,BL,06/01/2023,07/02/2023,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,60%,Thu phí
+1905,VN,R,Economy,Economy Classic,Phổ thông tiêu chuẩn,Phổ thông,VN,13/02/2022,0,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,60%,Thu phí
+1905,VN,R,Economy,Economy Classic,Phổ thông tiêu chuẩn,Phổ thông,VN,06/01/2023,07/02/2023,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,60%,Thu phí
+1905,VN,R,Economy,Economy Classic,Phổ thông tiêu chuẩn,Phổ thông,BL,13/02/2022,0,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,60%,Thu phí
+1905,VN,R,Economy,Economy Classic,Phổ thông tiêu chuẩn,Phổ thông,BL,06/01/2023,07/02/2023,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,60%,Thu phí
+1984,VN,S,Economy,Economy Flex,Phổ thông linh hoạt,Phổ thông,VN,13/02/2022,0,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí:
+     + Từ ngày ... đến ngày ... : 360,000đ + chênh lệch
+     + Khác: miễn phí + chênh lệch",0,3,No,null,3,0,Yes,0,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,80%,Miễn phí
+1984,VN,S,Economy,Economy Flex,Phổ thông linh hoạt,Phổ thông,VN,06/01/2023,07/02/2023,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí:
+     + Từ ngày ... đến ngày ... : 360,000đ + chênh lệch
+     + Khác: miễn phí + chênh lệch",0,3,No,null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,80%,Miễn phí
+1984,VN,S,Economy,Economy Flex,Phổ thông linh hoạt,Phổ thông,BL,13/02/2022,0,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí:
+     + Từ ngày ... đến ngày ... : 360,000đ + chênh lệch
+     + Khác: miễn phí + chênh lệch",0,3,No,null,3,0,Yes,0,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,80%,Miễn phí
+1984,VN,S,Economy,Economy Flex,Phổ thông linh hoạt,Phổ thông,BL,06/01/2023,07/02/2023,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí:
+     + Từ ngày ... đến ngày ... : 360,000đ + chênh lệch
+     + Khác: miễn phí + chênh lệch",0,3,No,null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,80%,Miễn phí
+2112,VN,T,Economy,Economy Lite,Phổ thông tiết kiệm,Phổ thông,VN,13/02/2022,0,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,60%,Thu phí
+2112,VN,T,Economy,Economy Lite,Phổ thông tiết kiệm,Phổ thông,VN,06/01/2023,07/02/2023,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,60%,Thu phí
+2112,VN,T,Economy,Economy Lite,Phổ thông tiết kiệm,Phổ thông,BL,13/02/2022,0,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,60%,Thu phí
+2112,VN,T,Economy,Economy Lite,Phổ thông tiết kiệm,Phổ thông,BL,06/01/2023,07/02/2023,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,No,No,60%,Thu phí
+2250,VN,W,Economy Premium,Premium Economy Flex,Phổ thông đặc biệt linh hoạt,Phổ thông đặc biệt,VN,13/02/2022,0,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Miễn phí + chênh lệch",0,3,No,null,3,0,Yes,0,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,Yes,Yes,120%,Miễn phí
+2250,VN,W,Economy Premium,Premium Economy Flex,Phổ thông đặc biệt linh hoạt,Phổ thông đặc biệt,VN,06/01/2023,07/02/2023,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Miễn phí + chênh lệch",0,3,No,null,3,0,Yes,0,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,Yes,Yes,120%,Miễn phí
+2250,VN,W,Economy Premium,Premium Economy Flex,Phổ thông đặc biệt linh hoạt,Phổ thông đặc biệt,BL,13/02/2022,0,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Miễn phí + chênh lệch",0,3,No,null,3,0,Yes,0,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,Yes,Yes,120%,Miễn phí
+2250,VN,W,Economy Premium,Premium Economy Flex,Phổ thông đặc biệt linh hoạt,Phổ thông đặc biệt,BL,06/01/2023,07/02/2023,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Miễn phí + chênh lệch",0,3,No,null,3,0,Yes,0,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,Yes,Yes,120%,Miễn phí
+2440,VN,U,Economy Premium,Premium Economy Classic,Phổ thông đặc biệt tiêu chuẩn,Phổ thông đặc biệt,VN,13/02/2022,0,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,"- Từ ngày ... đến ngày ... : thu phí + chênh lệch
+- Khác: miễn phí + chênh lệch",Yes,Thu phí,"- Từ ngày ... đến ngày ... : phí 500,000đ
+- Khác: miễn phí",Yes,500000,Yes,Yes,130%,Miễn phí
+2440,VN,U,Economy Premium,Premium Economy Classic,Phổ thông đặc biệt tiêu chuẩn,Phổ thông đặc biệt,VN,06/01/2023,07/02/2023,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,"- Từ ngày ... đến ngày ... : thu phí + chênh lệch
+- Khác: miễn phí + chênh lệch",Yes,Thu phí,"- Từ ngày ... đến ngày ... : phí 500,000đ
+- Khác: miễn phí",Yes,500000,Yes,Yes,130%,Miễn phí
+2440,VN,U,Economy Premium,Premium Economy Classic,Phổ thông đặc biệt tiêu chuẩn,Phổ thông đặc biệt,BL,13/02/2022,0,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,"- Từ ngày ... đến ngày ... : thu phí + chênh lệch
+- Khác: miễn phí + chênh lệch",Yes,Thu phí,"- Từ ngày ... đến ngày ... : phí 500,000đ
+- Khác: miễn phí",Yes,500000,Yes,Yes,130%,Miễn phí
+2440,VN,U,Economy Premium,Premium Economy Classic,Phổ thông đặc biệt tiêu chuẩn,Phổ thông đặc biệt,BL,06/01/2023,07/02/2023,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,"- Từ ngày ... đến ngày ... : thu phí + chênh lệch
+- Khác: miễn phí + chênh lệch",Yes,Thu phí,"- Từ ngày ... đến ngày ... : phí 500,000đ
+- Khác: miễn phí",Yes,500000,Yes,Yes,130%,Miễn phí
+2551,VN,Y,Economy,Economy Flex,Phổ thông linh hoạt,Phổ thông,VN,13/02/2022,0,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí:
+     + Từ ngày ... đến ngày ... : 360,000đ + chênh lệch
+     + Khác: miễn phí + chênh lệch",0,3,No,null,3,0,Yes,0,No,No,,,,"- Từ ngày ... đến ngày ... : thu phí + chênh lệch
+- Khác: miễn phí + chênh lệch",Yes,0,"- Từ ngày ... đến ngày ... : phí 500,000đ
+- Khác: miễn phí",Yes,0,No,No,100%,Miễn phí
+2551,VN,Y,Economy,Economy Flex,Phổ thông linh hoạt,Phổ thông,VN,06/01/2023,07/02/2023,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí:
+     + Từ ngày ... đến ngày ... : 360,000đ + chênh lệch
+     + Khác: miễn phí + chênh lệch",0,3,No,null,3,0,Yes,360000,No,No,,,,"- Từ ngày ... đến ngày ... : thu phí + chênh lệch
+- Khác: miễn phí + chênh lệch",Yes,Thu phí,"- Từ ngày ... đến ngày ... : phí 500,000đ
+- Khác: miễn phí",Yes,500000,No,No,100%,Miễn phí
+2551,VN,Y,Economy,Economy Flex,Phổ thông linh hoạt,Phổ thông,BL,13/02/2022,0,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí:
+     + Từ ngày ... đến ngày ... : 360,000đ + chênh lệch
+     + Khác: miễn phí + chênh lệch",0,3,No,null,3,0,Yes,0,No,No,,,,"- Từ ngày ... đến ngày ... : thu phí + chênh lệch
+- Khác: miễn phí + chênh lệch",Yes,0,"- Từ ngày ... đến ngày ... : phí 500,000đ
+- Khác: miễn phí",Yes,0,No,No,100%,Miễn phí
+2551,VN,Y,Economy,Economy Flex,Phổ thông linh hoạt,Phổ thông,BL,06/01/2023,07/02/2023,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí:
+     + Từ ngày ... đến ngày ... : 360,000đ + chênh lệch
+     + Khác: miễn phí + chênh lệch",0,3,No,null,3,0,Yes,360000,No,No,,,,"- Từ ngày ... đến ngày ... : thu phí + chênh lệch
+- Khác: miễn phí + chênh lệch",Yes,Thu phí,"- Từ ngày ... đến ngày ... : phí 500,000đ
+- Khác: miễn phí",Yes,500000,No,No,100%,Miễn phí
+2714,VN,Z,Economy Premium,Premium Economy Classic,Phổ thông đặc biệt tiêu chuẩn,Phổ thông đặc biệt,VN,13/02/2022,0,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,Yes,Yes,120%,Miễn phí
+2714,VN,Z,Economy Premium,Premium Economy Classic,Phổ thông đặc biệt tiêu chuẩn,Phổ thông đặc biệt,VN,06/01/2023,07/02/2023,12kg,Yes,1,12,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",Yes,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,Yes,Yes,120%,Miễn phí
+2714,VN,Z,Economy Premium,Premium Economy Classic,Phổ thông đặc biệt tiêu chuẩn,Phổ thông đặc biệt,BL,13/02/2022,0,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,Yes,Yes,120%,Miễn phí
+2714,VN,Z,Economy Premium,Premium Economy Classic,Phổ thông đặc biệt tiêu chuẩn,Phổ thông đặc biệt,BL,06/01/2023,07/02/2023,7kg,Yes,1,7,1x23kg,Yes,1,23,Null,"- Chuyến bay >= 120p: Yes
+- Chuyến bay < 120p: No",No,120,"Định danh, Hoàn về hình thức thanh toán ban đầu",365,"- Phí 500,000đ
+- Báo tối thiểu 4 tiếng trước giờ bay
+- Hoàn travel voucher:
+    + Bảo lưu tiền vé trong 1 năm
+- Hoàn về hình thức thanh toán ban đầu
+    + Hoàn sau 3 tháng kể từ ngày bay chặng cuối trên vé",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,500000,"- Báo tối thiểu 3 tiếng trước giờ bay
+- Phí 360,000đ + chênh lệch",0,3,No,Null,3,0,Yes,360000,No,No,,,,Thu phí + chênh lệch,Yes,Thu phí,"- Phí 500,000đ",Yes,500000,Yes,Yes,120%,Miễn phí
+2742,QH,ECONOMYSAVER,Bamboo Eco,Economy Saver,Economy Saver,Phổ thông,QH,16/02/2022,0,7kg,Yes,1,7,20kg,Yes,1,20,Null,"- Chuyến bay >= 105p: Yes
+- Chuyến bay < 105p: No",Yes,105,Không hoàn,,,0,0,Lý do cá nhân,No,null,,,,No,,"- Trước 3 tiếng: 270,000đ + Chênh lệch
+- Sau đó: No",0,3,No,Null,3,0,Yes,270000,"Phí 350,000đ/khách/chặng",Yes,0,0,350000,,No,,Null,"No",,Thu phí,Thu phí,25%,Thu phí
+2742,QH,ECONOMYSAVER,Bamboo Eco,Economy Saver,Economy Saver,Phổ thông,QH,06/01/2023,07/02/2023,7kg,Yes,1,7,20kg,Yes,1,20,Null,"- Chuyến bay >= 105p: Yes
+- Chuyến bay < 105p: No",Yes,105,Không hoàn,,,0,0,Lý do cá nhân,No,null,,,,No,,"- Trước 3 tiếng: 270,000đ + Chênh lệch
+- Sau đó: No",0,3,No,Null,3,0,Yes,270000,"Phí 350,000đ/khách/chặng",Yes,0,0,350000,,No,,Null,"No",,Thu phí,Thu phí,25%,Thu phí
+2743,QH,PREMIUMSMART,Bamboo Premium,Premium Smart,Premium Smart,Phổ thông đặc biệt,QH,16/02/2022,0,7kg,Yes,1,7,30kg,Yes,1,30,Null,"- Chuyến bay >= 105p: Yes
+- Chuyến bay < 105p: No",Yes,105,Hoàn về hình thức thanh toán ban đầu,,"- Hoàn định danh
+- Trước 3 tiếng: 350,000đ
+- Sau đó: 350,000đ. Tết thì 550,000đ",0,3,Lý do cá nhân,Yes,350000,3,0,Lý do cá nhân,Yes,350000,"- Bất kỳ: 270,000đ + Chênh lệch",0,0,Yes,270000,,,,,"Phí 350,000đ/khách/chặng",Yes,0,0,350000,,No,,Null,"No",,Yes,Thu phí,125%,Thu phí
+2743,QH,PREMIUMSMART,Bamboo Premium,Premium Smart,Premium Smart,Phổ thông đặc biệt,QH,06/01/2023,07/02/2023,7kg,Yes,1,7,30kg,Yes,1,30,Null,"- Chuyến bay >= 105p: Yes
+- Chuyến bay < 105p: No",Yes,105,Hoàn về hình thức thanh toán ban đầu,,"- Hoàn định danh
+- Trước 3 tiếng: 350,000đ
+- Sau đó: 350,000đ. Tết thì 550,000đ",0,3,Lý do cá nhân,Yes,550000,3,0,Lý do cá nhân,Yes,350000,"- Bất kỳ: 270,000đ + Chênh lệch",0,0,Yes,270000,,,,,"Phí 350,000đ/khách/chặng",Yes,0,0,350000,,No,,Null,"No",,Yes,Thu phí,125%,Thu phí
+2745,QH,BUSINESSSMART,Bamboo Business,Business Smart,Business Smart,Thương gia,QH,16/02/2022,0,2 túi 7kg = 14 kg,Yes,2,7,40kg,Yes,1,40,Null,"- Chuyến bay >= 105p: Yes
+- Chuyến bay < 105p: No",Yes,105,Hoàn về hình thức thanh toán ban đầu,,"- Hoàn định danh
+- Trước 3 tiếng: 350,000đ
+- Sau đó: 350,000đ. Tết thì 550,000đ",0,3,Lý do cá nhân,Yes,350000,3,0,Lý do cá nhân,Yes,350000,"- Trước 3 tiếng: free + chênh lệch
+- Sau đó: 270,000đ + Chênh lệch",0,3,Yes,270000,3,0,Yes,0,"Phí 350,000đ/khách/chặng",Yes,0,0,350000,,No,,Null,"No",,Yes,Yes,175%,Miễn phí
+2745,QH,BUSINESSSMART,Bamboo Business,Business Smart,Business Smart,Thương gia,QH,06/01/2023,07/02/2023,2 túi 7kg = 14 kg,Yes,2,7,40kg,Yes,1,40,Null,"- Chuyến bay >= 105p: Yes
+- Chuyến bay < 105p: No",Yes,105,Hoàn về hình thức thanh toán ban đầu,,"- Hoàn định danh
+- Trước 3 tiếng: 350,000đ
+- Sau đó: 350,000đ. Tết thì 550,000đ",0,3,Lý do cá nhân,Yes,550000,3,0,Lý do cá nhân,Yes,350000,"- Trước 3 tiếng: free + chênh lệch
+- Sau đó: 270,000đ + Chênh lệch",0,3,Yes,270000,3,0,Yes,0,"Phí 350,000đ/khách/chặng",Yes,0,0,350000,,No,,Null,"No",,Yes,Yes,175%,Miễn phí
+2761,QH,BUSINESSFLEX,Bamboo Business,Business Flex,Business Flex,Thương gia,QH,16/02/2022,0,2 túi 7kg = 14 kg,Yes,2,7,40kg,Yes,1,40,Null,"- Chuyến bay >= 105p: Yes
+- Chuyến bay < 105p: No",Yes,105,Hoàn về hình thức thanh toán ban đầu,,"- Hoàn định danh
+- Trước 3 tiếng: 350,000đ
+- Sau đó: 350,000đ. Tết thì 550,000đ",0,3,Lý do cá nhân,Yes,350000,3,0,Lý do cá nhân,Yes,350000,"- Trước 3 tiếng: Free + chênh lệch
+- Trong vòng 3 tiếng và sau giờ bay
+  + Từ ngày...đến ngày...: 270,000đ + chênh lệch
+  + Khoảng ngày khác: Free + chênh lệch
+",0,0,Yes,0,,,,,"Phí 350,000đ/khách/chặng",Yes,0,0,350000,,No,,Null,"No",,Yes,Yes,200%,Miễn phí
+2761,QH,BUSINESSFLEX,Bamboo Business,Business Flex,Business Flex,Thương gia,QH,06/01/2023,07/02/2023,2 túi 7kg = 14 kg,Yes,2,7,40kg,Yes,1,40,Null,"- Chuyến bay >= 105p: Yes
+- Chuyến bay < 105p: No",Yes,105,Hoàn về hình thức thanh toán ban đầu,,"- Hoàn định danh
+- Trước 3 tiếng: 350,000đ
+- Sau đó: 350,000đ. Tết thì 550,000đ",0,3,Lý do cá nhân,Yes,550000,3,0,Lý do cá nhân,Yes,350000,"- Trước 3 tiếng: Free + chênh lệch
+- Trong vòng 3 tiếng và sau giờ bay
+  + Từ ngày...đến ngày...: 270,000đ + chênh lệch
+  + Khoảng ngày khác: Free + chênh lệch
+",0,3,Yes,270000,3,0,Yes,0,"Phí 350,000đ/khách/chặng",Yes,0,0,350000,,No,,Null,"No",,Yes,Yes,200%,Miễn phí
+2762,QH,PREMIUMFLEX,Bamboo Premium,Premium Flex,Premium Flex,Phổ thông đặc biệt,QH,16/02/2022,0,7kg,Yes,1,7,30kg,Yes,1,30,Null,"- Chuyến bay >= 105p: Yes
+- Chuyến bay < 105p: No",Yes,105,Hoàn về hình thức thanh toán ban đầu,,"- Hoàn định danh
+- Trước 3 tiếng: 350,000đ
+- Sau đó: 350,000đ. Tết thì 550,000đ",0,3,Lý do cá nhân,Yes,350000,3,0,Lý do cá nhân,Yes,350000,"- Trước 3 tiếng: Free + chênh lệch
+- Trong vòng 3 tiếng và sau giờ bay
+  + Từ ngày...đến ngày...: 270,000đ + chênh lệch
+  + Khoảng ngày khác: Free + chênh lệch
+",0,0,Yes,0,,,,,"Phí 350,000đ/khách/chặng",Yes,0,0,350000,,No,,Null,"No",,Yes,Thu phí,150%,Miễn phí
+2762,QH,PREMIUMFLEX,Bamboo Premium,Premium Flex,Premium Flex,Phổ thông đặc biệt,QH,06/01/2023,07/02/2023,7kg,Yes,1,7,30kg,Yes,1,30,Null,"- Chuyến bay >= 105p: Yes
+- Chuyến bay < 105p: No",Yes,105,Hoàn về hình thức thanh toán ban đầu,,"- Hoàn định danh
+- Trước 3 tiếng: 350,000đ
+- Sau đó: 350,000đ. Tết thì 550,000đ",0,3,Lý do cá nhân,Yes,550000,3,0,Lý do cá nhân,Yes,350000,"- Trước 3 tiếng: Free + chênh lệch
+- Trong vòng 3 tiếng và sau giờ bay
+  + Từ ngày...đến ngày...: 270,000đ + chênh lệch
+  + Khoảng ngày khác: Free + chênh lệch
+",0,3,Yes,270000,3,0,Yes,0,"Phí 350,000đ/khách/chặng",Yes,0,0,350000,,No,,Null,"No",,Yes,Thu phí,150%,Miễn phí
+2763,QH,ECONOMYSAVERMAX,Bamboo Eco,Economy Saver Max,Economy Saver Max,Phổ thông,QH,16/02/2022,0,7kg,Yes,1,7,0kg,No,,,Null,"- Chuyến bay >= 105p: Yes
+- Chuyến bay < 105p: No",Yes,105,Không hoàn,,,0,0,Lý do cá nhân,No,null,,,,No,,No,0,0,No,Null,,,,,No,No,,,,,No,,Null,"No",,Thu phí,Thu phí,0%,Thu phí
+2763,QH,ECONOMYSAVERMAX,Bamboo Eco,Economy Saver Max,Economy Saver Max,Phổ thông,QH,06/01/2023,07/02/2023,7kg,Yes,1,7,0kg,No,,,Null,"- Chuyến bay >= 105p: Yes
+- Chuyến bay < 105p: No",Yes,105,Không hoàn,,,0,0,Lý do cá nhân,No,null,,,,No,,No,0,0,No,Null,,,,,No,No,,,,,No,,Null,"No",,Thu phí,Thu phí,0%,Thu phí
+2764,QH,ECONOMYSMART,Bamboo Eco,Economy Smart,Economy Smart,Phổ thông,QH,16/02/2022,0,7kg,Yes,1,7,20kg,Yes,1,20,Null,"- Chuyến bay >= 105p: Yes
+- Chuyến bay < 105p: No",Yes,105,Hoàn về hình thức thanh toán ban đầu,,"- Hoàn định danh
+- Trước 3 tiếng: 350,000đ
+- Sau đó: 350,000đ. Tết thì 550,000đ",0,3,Lý do cá nhân,Yes,350000,3,0,Lý do cá nhân,Yes,350000,"- Trước 3 tiếng: 270,000đ + Chênh lệch
+- Sau đó: 550,000đ + Chênh lệch",0,3,Yes,550000,3,0,Yes,270000,"Phí 350,000đ/khách/chặng",Yes,0,0,350000,,No,,Null,"No",,Thu phí,Thu phí,50%,Thu phí
+2764,QH,ECONOMYSMART,Bamboo Eco,Economy Smart,Economy Smart,Phổ thông,QH,06/01/2023,07/02/2023,7kg,Yes,1,7,20kg,Yes,1,20,Null,"- Chuyến bay >= 105p: Yes
+- Chuyến bay < 105p: No",Yes,105,Hoàn về hình thức thanh toán ban đầu,,"- Hoàn định danh
+- Trước 3 tiếng: 350,000đ
+- Sau đó: 350,000đ. Tết thì 550,000đ",0,3,Lý do cá nhân,Yes,550000,3,0,Lý do cá nhân,Yes,350000,"- Trước 3 tiếng: 270,000đ + Chênh lệch
+- Sau đó: 550,000đ + Chênh lệch",0,3,Yes,550000,3,0,Yes,270000,"Phí 350,000đ/khách/chặng",Yes,0,0,350000,,No,,Null,"No",,Thu phí,Thu phí,50%,Thu phí
+2765,QH,ECONOMYFLEX,Bamboo Eco,Economy Flex,Economy Flex,Phổ thông,QH,16/02/2022,0,7kg,Yes,1,7,20kg,Yes,1,20,Null,"- Chuyến bay >= 105p: Yes
+- Chuyến bay < 105p: No",Yes,105,Hoàn về hình thức thanh toán ban đầu,,"- Hoàn định danh
+- Trước 3 tiếng: 350,000đ
+- Sau đó: 350,000đ. Tết thì 550,000đ",0,3,Lý do cá nhân,Yes,350000,3,0,Lý do cá nhân,Yes,350000,"- Bất kỳ: Free + Chênh lệch
+- Từ ngày ... đến ngày ... : 270,000đ + Chênh lệch",0,3,Yes,0,3,0,Yes,0,"Phí 350,000đ/khách/chặng",Yes,0,0,350000,,No,,Null,"No",,Thu phí,Thu phí,100%,Miễn phí
+2765,QH,ECONOMYFLEX,Bamboo Eco,Economy Flex,Economy Flex,Phổ thông,QH,06/01/2023,07/02/2023,7kg,Yes,1,7,20kg,Yes,1,20,Null,"- Chuyến bay >= 105p: Yes
+- Chuyến bay < 105p: No",Yes,105,Hoàn về hình thức thanh toán ban đầu,,"- Hoàn định danh
+- Trước 3 tiếng: 350,000đ
+- Sau đó: 350,000đ. Tết thì 550,000đ",0,3,Lý do cá nhân,Yes,550000,3,0,Lý do cá nhân,Yes,350000,"- Bất kỳ: Free + Chênh lệch
+- Từ ngày ... đến ngày ... : 270,000đ + Chênh lệch",0,3,Yes,270000,3,0,Yes,270000,"Phí 350,000đ/khách/chặng",Yes,0,0,350000,,No,,Null,"No",,Thu phí,Thu phí,100%,Miễn phí
+,VU,A,Economy,Economy,Economy,Phổ thông,VU,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Không hoàn,null,No,0,0,Lý do cá nhân,No,null,,,,No,,"- Phí thay đổi chuyến bay 350,000 đồng/khách/chặng + Chênh lệch giá vé (nếu có và tính ở mức giá bằng hoặc cao hơn)
+- Các thay đổi phải được thực hiện ít nhất 04 tiếng trước giờ khởi hành.",0,4,No,null,4,0,Yes,350000,No,Yes,4,0,350000,No,No,,No,"No",,No,No,No,Thu phí
+,VU,B,Economy,Economy,Economy,Phổ thông,VU,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Không hoàn,null,No,0,0,Lý do cá nhân,No,null,,,,No,,"- Phí thay đổi chuyến bay 350,000 đồng/khách/chặng + Chênh lệch giá vé (nếu có và tính ở mức giá bằng hoặc cao hơn)
+- Các thay đổi phải được thực hiện ít nhất 04 tiếng trước giờ khởi hành.",0,4,No,null,4,0,Yes,350000,No,Yes,4,0,350000,No,No,,No,"No",,No,No,No,Thu phí
+,VU,C,Economy,Economy,Economy,Phổ thông,VU,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Không hoàn,null,No,0,0,Lý do cá nhân,No,null,,,,No,,"- Phí thay đổi chuyến bay 350,000 đồng/khách/chặng + Chênh lệch giá vé (nếu có và tính ở mức giá bằng hoặc cao hơn)
+- Các thay đổi phải được thực hiện ít nhất 04 tiếng trước giờ khởi hành.",0,4,No,null,4,0,Yes,350000,No,Yes,4,0,350000,No,No,,No,"No",,No,No,No,Thu phí
+,VU,D,Economy,Economy,Economy,Phổ thông,VU,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Không hoàn,null,No,0,0,Lý do cá nhân,No,null,,,,No,,"- Phí thay đổi chuyến bay 350,000 đồng/khách/chặng + Chênh lệch giá vé (nếu có và tính ở mức giá bằng hoặc cao hơn)
+- Các thay đổi phải được thực hiện ít nhất 04 tiếng trước giờ khởi hành.",0,4,No,null,4,0,Yes,350000,No,Yes,4,0,350000,No,No,,No,"No",,No,No,No,Thu phí
+,VU,E,Economy,Economy,Economy,Phổ thông,VU,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Không hoàn,null,No,0,0,Lý do cá nhân,No,null,,,,No,,"- Phí thay đổi chuyến bay 350,000 đồng/khách/chặng + Chênh lệch giá vé (nếu có và tính ở mức giá bằng hoặc cao hơn)
+- Các thay đổi phải được thực hiện ít nhất 04 tiếng trước giờ khởi hành.",0,4,No,null,4,0,Yes,350000,No,Yes,4,0,350000,No,No,,No,"No",,No,No,No,Thu phí
+,VU,H,Economy,Economy,Economy,Phổ thông,VU,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Không hoàn,null,No,0,0,Lý do cá nhân,No,null,,,,No,,"- Phí thay đổi chuyến bay 350,000 đồng/khách/chặng + Chênh lệch giá vé (nếu có và tính ở mức giá bằng hoặc cao hơn)
+- Các thay đổi phải được thực hiện ít nhất 04 tiếng trước giờ khởi hành.",0,4,No,null,4,0,Yes,350000,No,Yes,4,0,350000,No,No,,No,"No",,No,No,No,Thu phí
+,VU,K,Economy,Economy,Economy,Phổ thông,VU,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Không hoàn,null,No,0,0,Lý do cá nhân,No,null,,,,No,,"- Phí thay đổi chuyến bay 350,000 đồng/khách/chặng + Chênh lệch giá vé (nếu có và tính ở mức giá bằng hoặc cao hơn)
+- Các thay đổi phải được thực hiện ít nhất 04 tiếng trước giờ khởi hành.",0,4,No,null,4,0,Yes,350000,No,Yes,4,0,350000,No,No,,No,"No",,No,No,No,Thu phí
+,VU,L,Economy,Economy,Economy,Phổ thông,VU,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Không hoàn,null,No,0,0,Lý do cá nhân,No,null,,,,No,,"- Phí thay đổi chuyến bay 350,000 đồng/khách/chặng + Chênh lệch giá vé (nếu có và tính ở mức giá bằng hoặc cao hơn)
+- Các thay đổi phải được thực hiện ít nhất 04 tiếng trước giờ khởi hành.",0,4,No,null,4,0,Yes,350000,No,Yes,4,0,350000,No,No,,No,"No",,No,No,No,Thu phí
+,VU,M,Economy,Economy,Economy,Phổ thông,VU,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Không hoàn,null,No,0,0,Lý do cá nhân,No,null,,,,No,,"- Phí thay đổi chuyến bay 350,000 đồng/khách/chặng + Chênh lệch giá vé (nếu có và tính ở mức giá bằng hoặc cao hơn)
+- Các thay đổi phải được thực hiện ít nhất 04 tiếng trước giờ khởi hành.",0,4,No,null,4,0,Yes,350000,No,Yes,4,0,350000,No,No,,No,"No",,No,No,No,Thu phí
+,VU,N,Economy,Economy,Economy,Phổ thông,VU,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Hoàn về hình thức thanh toán ban đầu,,"- Được phép hoàn với mức phí 350,000 VND/khách/chặng.
+- Vé đủ điều kiện hoàn là vé: Phải hủy đặt chỗ tối thiểu 04 tiếng trước giờ khởi hành ghi trên vé và vé còn hiệu lực.",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,350000,"- Phí thay đổi chuyến bay 350,000 đồng/khách/chặng + Chênh lệch giá vé (nếu có và tính ở mức giá bằng hoặc cao hơn)
+- Các thay đổi phải được thực hiện ít nhất 04 tiếng trước giờ khởi hành.",0,4,No,null,4,0,Yes,350000,,Yes,4,0,350000,,No,,,"No",,No,No,No,Thu phí
+,VU,O,Economy,Economy,Economy,Phổ thông,VU,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Hoàn về hình thức thanh toán ban đầu,,"- Được phép hoàn với mức phí 350,000 VND/khách/chặng.
+- Vé đủ điều kiện hoàn là vé: Phải hủy đặt chỗ tối thiểu 04 tiếng trước giờ khởi hành ghi trên vé và vé còn hiệu lực.",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,350000,"- Phí thay đổi chuyến bay 350,000 đồng/khách/chặng + Chênh lệch giá vé (nếu có và tính ở mức giá bằng hoặc cao hơn)
+- Các thay đổi phải được thực hiện ít nhất 04 tiếng trước giờ khởi hành.",0,4,No,null,4,0,Yes,350000,,Yes,4,0,350000,,No,,,"No",,No,No,No,Thu phí
+,VU,Q,Economy,Economy,Economy,Phổ thông,VU,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Hoàn về hình thức thanh toán ban đầu,,"- Được phép hoàn với mức phí 350,000 VND/khách/chặng.
+- Vé đủ điều kiện hoàn là vé: Phải hủy đặt chỗ tối thiểu 04 tiếng trước giờ khởi hành ghi trên vé và vé còn hiệu lực.",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,350000,"- Phí thay đổi chuyến bay 350,000 đồng/khách/chặng + Chênh lệch giá vé (nếu có và tính ở mức giá bằng hoặc cao hơn)
+- Các thay đổi phải được thực hiện ít nhất 04 tiếng trước giờ khởi hành.",0,4,No,null,4,0,Yes,350000,,Yes,4,0,350000,,No,,,"No",,No,No,No,Thu phí
+,VU,R,Economy,Economy,Economy,Phổ thông,VU,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Hoàn về hình thức thanh toán ban đầu,,"- Được phép hoàn với mức phí 350,000 VND/khách/chặng.
+- Vé đủ điều kiện hoàn là vé: Phải hủy đặt chỗ tối thiểu 04 tiếng trước giờ khởi hành ghi trên vé và vé còn hiệu lực.",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,350000,"- Phí thay đổi chuyến bay 350,000 đồng/khách/chặng + Chênh lệch giá vé (nếu có và tính ở mức giá bằng hoặc cao hơn)
+- Các thay đổi phải được thực hiện ít nhất 04 tiếng trước giờ khởi hành.",0,4,No,null,4,0,Yes,350000,,Yes,4,0,350000,,No,,,"No",,No,No,No,Thu phí
+,VU,S,Economy,Economy,Economy,Phổ thông,VU,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Hoàn về hình thức thanh toán ban đầu,,"- Được phép hoàn với mức phí 350,000 VND/khách/chặng.
+- Vé đủ điều kiện hoàn là vé: Phải hủy đặt chỗ tối thiểu 04 tiếng trước giờ khởi hành ghi trên vé và vé còn hiệu lực.",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,350000,"- Phí thay đổi chuyến bay 350,000 đồng/khách/chặng + Chênh lệch giá vé (nếu có và tính ở mức giá bằng hoặc cao hơn)
+- Các thay đổi phải được thực hiện ít nhất 04 tiếng trước giờ khởi hành.",0,4,No,null,4,0,Yes,350000,,Yes,4,0,350000,,No,,,"No",,No,No,No,Thu phí
+,VU,T,Economy,Economy,Economy,Phổ thông,VU,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Hoàn về hình thức thanh toán ban đầu,,"- Được phép hoàn với mức phí 350,000 VND/khách/chặng.
+- Vé đủ điều kiện hoàn là vé: Phải hủy đặt chỗ tối thiểu 04 tiếng trước giờ khởi hành ghi trên vé và vé còn hiệu lực.",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,350000,"- Phí thay đổi chuyến bay 350,000 đồng/khách/chặng + Chênh lệch giá vé (nếu có và tính ở mức giá bằng hoặc cao hơn)
+- Các thay đổi phải được thực hiện ít nhất 04 tiếng trước giờ khởi hành.",0,4,No,null,4,0,Yes,350000,,Yes,4,0,350000,,No,,,"No",,No,No,No,Thu phí
+,VU,V,Economy,Economy,Economy,Phổ thông,VU,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Hoàn về hình thức thanh toán ban đầu,,"- Được phép hoàn với mức phí 350,000 VND/khách/chặng.
+- Vé đủ điều kiện hoàn là vé: Phải hủy đặt chỗ tối thiểu 04 tiếng trước giờ khởi hành ghi trên vé và vé còn hiệu lực.",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,350000,"- Phí thay đổi chuyến bay 350,000 đồng/khách/chặng + Chênh lệch giá vé (nếu có và tính ở mức giá bằng hoặc cao hơn)
+- Các thay đổi phải được thực hiện ít nhất 04 tiếng trước giờ khởi hành.",0,4,No,null,4,0,Yes,350000,,Yes,4,0,350000,,No,,,"No",,No,No,No,Thu phí
+,VU,Y,Economy,Economy,Economy,Phổ thông,VU,0,0,7kg,Yes,1,7,0kg,No,,,Null,No,No,,Hoàn về hình thức thanh toán ban đầu,,"- Được phép hoàn với mức phí 350,000 VND/khách/chặng.
+- Vé đủ điều kiện hoàn là vé: Phải hủy đặt chỗ tối thiểu 04 tiếng trước giờ khởi hành ghi trên vé và vé còn hiệu lực.",0,4,Lý do cá nhân,No,null,4,0,Lý do cá nhân,Yes,350000,"- Phí thay đổi chuyến bay 350,000 đồng/khách/chặng + Chênh lệch giá vé (nếu có và tính ở mức giá bằng hoặc cao hơn)
+- Các thay đổi phải được thực hiện ít nhất 04 tiếng trước giờ khởi hành.",0,4,No,null,4,0,Yes,350000,,Yes,4,0,350000,,No,,,"No",,No,No,No,Thu phí
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+tất cả giá ở đây đều chưa bao gồm thuế và phí,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
